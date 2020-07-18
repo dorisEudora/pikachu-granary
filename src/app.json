@@ -1,0 +1,40 @@
+{
+    "pages": [
+      "pages/index/main",
+      "pages/workers/main",
+
+      "pages/resume/main",
+      "pages/identification/main",
+      "pages/personal/main",
+      "pages/jobs/main",
+      "pages/feedback/main"
+
+    ],
+    "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#1296DB",
+      "navigationBarTextStyle": "white",
+      "navigationBarTitleText": "Hey! Job"
+    },
+    "tabBar": {
+      "color": "#707070",
+      "selectedColor": "#1296DB",
+      "borderStyle": "white",
+      "list": [
+        {
+
+          "iconPath":"/static/tabs/job.png",
+          "selectedIconPath": "/static/tabs/job-active.png",
+          "pagePath": "pages/index/main",
+          "text": "开始招人"
+        },
+        {
+          "iconPath":
+          "/static/tabs/personal.png",
+          "selectedIconPath": "/static/tabs/personal-active copy.png",
+          "pagePath": "pages/personal/main",
+          "text": "商家中心"
+        }
+      ]
+    }
+}

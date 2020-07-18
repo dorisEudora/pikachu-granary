@@ -1,0 +1,18 @@
+{
+    "navigationBarTitleText": "投递人简历",
+    "usingComponents":{
+        "van-field":"/static/vant/field/index",
+        "van-nav-bar":"/static/vant/nav-bar/index",
+        "van-cell-group":"/static/vant/cell-group/index",
+        "van-tabbar":"/static/vant/tabbar/index",
+        "van-popup": "/static/vant/popup/index",
+        "van-tabbar-item":"/static/vant/tabbar-item/index",
+        "van-submit-bar":"/static/vant/submit-bar/index",
+        "van-cell":"/static/vant/cell/index",
+        "van-button":"/static/vant/button/index",
+        "van-tabbar": "/static/vant/tabbar/index",
+        "van-tabbar-item": "/static/vant/tabbar-item/index"
+    }
+
+
+}
